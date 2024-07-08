@@ -1,1 +1,1 @@
-https://magdalenaantkowiak.github.io/goit-js-hw-09/
+https://magdalenaantkowiak.github.io/goit-js-hw-09-vite/
